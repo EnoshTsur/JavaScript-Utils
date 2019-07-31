@@ -1,0 +1,6 @@
+/**
+ *Dom Manipulation
+ **/
+function dom() {
+
+}
